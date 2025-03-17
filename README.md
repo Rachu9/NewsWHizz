@@ -1,3 +1,9 @@
+![Screenshot (1208)](https://github.com/user-attachments/assets/335a5420-cb2f-41d3-ba4d-55c1e82bd02a)
+![Screenshot (1207)](https://github.com/user-attachments/assets/9130caaa-2524-448c-8455-996901a0bb63)
+![Screenshot (1213)](https://github.com/user-attachments/assets/d6d13264-2621-4a23-aeff-118533d0dd88)
+![Screenshot (1212)](https://github.com/user-attachments/assets/c939a4e5-dbcb-466b-8138-3b86bc003638)
+
+
 # 📰 NewsWhizz - Smart News Summarization & TTS  
 
 ![NewsWhizz Banner](https://your-image-link.com)  <!-- Add a relevant banner image -->
@@ -55,13 +61,4 @@ Copy
 Edit
 streamlit run app.py
 📍 The app will launch in your browser at http://localhost:8501 🎉
-
-
-![Screenshot (1223)](https://github.com/user-attachments/assets/c080996a-ad12-44bf-96b7-dd10b2c74d4b)
-![Screenshot (1213)](https://github.com/user-attachments/assets/bd01087b-5f27-4f5a-8167-72e5d5203439)
-![Screenshot (1212)](https://github.com/user-attachments/assets/c621ba0a-bf7f-43e3-a994-d0fc837b8c3c)
-![Screenshot (1211)](https://github.com/user-attachments/assets/d63fa8da-f358-498e-9bd8-d7e2a867a0c9)
-![Screenshot (1208)](https://github.com/user-attachments/assets/335a5420-cb2f-41d3-ba4d-55c1e82bd02a)
-![Screenshot (1207)](https://github.com/user-attachments/assets/9130caaa-2524-448c-8455-996901a0bb63)
-
 

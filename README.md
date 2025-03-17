@@ -5,7 +5,7 @@
 ## 📌 Overview  
 **NewsWhizz** is a **news summarization and text-to-speech application** that fetches real-time news, generates concise summaries in **English & Hindi**, and provides **sentiment analysis**. It features a **dark & light mode toggle** for a better user experience.  
 
-🔗 **Live Demo:** [Deployed App Link](https://your-deployment-link.com)  
+🔗 **Live Demo:** [Deployed App Link](https://huggingface.co/spaces/Rachuachar/NewsWhiz)  
 🔗 **GitHub Repository:** [NewsWhizz](https://github.com/Rachu9/NewsWHizz)  
 
 ---
@@ -55,6 +55,9 @@ Copy
 Edit
 streamlit run app.py
 📍 The app will launch in your browser at http://localhost:8501 🎉
+
+
+
 ![Uploading Screenshot (1212).png…]()
 ![Screenshot (1211)](https://github.com/user-attachments/assets/623ad302-4c53-439a-b5a6-29f8b2b3e361)
 ![Screenshot (1208)](https://github.com/user-attachments/assets/e6ed9236-459a-4485-9f02-9040d738a2e8)
